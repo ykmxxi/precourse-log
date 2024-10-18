@@ -5,6 +5,7 @@
 # :memo: ​프리코스 진행
 
 - [프리코스 진행 방법](/precourse-process/process.md)
+- [왜 Commit Message Conventions를 지켜야 할까?](/precourse-process/commit_message_convention.md)
 
 # :memo: Test
 
