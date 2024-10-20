@@ -12,7 +12,9 @@
 
 # :memo: Java
 
-# :memo: 설계
+# :memo: OOP
+
+- [객체지향의 사실과 오해 정리](/oop/객체지향의사실과오해.md)
 
 # :memo: etc
 
