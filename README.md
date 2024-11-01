@@ -10,6 +10,8 @@
 - [첫째 주 일일 회고](/retrospective/첫째주일일회고.md)
 - [코드 리뷰 피드백](/retrospective/코드리뷰피드백.md)
 - [둘째 주 일일 회고](/retrospective/둘째주일일회고.md)
+- [셋째 주 일일 회고](/retrospective/셋째주일일회고.md)
+- [2주 차 공통 피드백 분석 및 회고](/retrospective/2주차공통피드백.md)
 
 # :memo: Test
 
